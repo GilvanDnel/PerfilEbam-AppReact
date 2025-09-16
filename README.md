@@ -1,50 +1,65 @@
-# Welcome to your Expo app 👋
+# Perfil ESBAM (React Native) 📱
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Este é um aplicativo móvel desenvolvido como parte de uma atividade acadêmica para a ESBAM. O app permite que o usuário insira seu nome e idade, exibindo essas informações dinamicamente na tela e oferecendo interações básicas como exibir um alerta e limpar os campos.
 
-## Get started
+![Screenshot do App](https://drive.google.com/file/d/114J0ZdOlctTor4UOT97tOqbk3BCVYsji/view?usp=drivesdk)
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## 🚀 Tecnologias Utilizadas
 
-   ```bash
-   npx expo start
-   ```
+Este projeto foi construído utilizando as seguintes tecnologias e bibliotecas:
 
-In the output, you'll find options to open the app in a
+* **[React Native](https://reactnative.dev/)**: Framework para desenvolvimento de aplicativos móveis multiplataforma.
+* **[Expo](https://expo.dev/)**: Plataforma e conjunto de ferramentas para facilitar o desenvolvimento e a execução de apps React Native.
+* **[TypeScript](https://www.typescriptlang.org/)**: Superset do JavaScript que adiciona tipagem estática ao código.
+* **[Expo Router](https://docs.expo.dev/router/introduction/)**: Sistema de roteamento baseado em arquivos para apps Expo.
+* **[React Native Safe Area Context](https://github.com/th3rdwave/react-native-safe-area-context)**: Biblioteca para lidar com áreas seguras da tela em diferentes dispositivos.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## ⚙️ Como Rodar o Projeto
 
-## Get a fresh project
+Para executar este projeto localmente, você precisará ter algumas ferramentas instaladas e seguir os passos abaixo.
 
-When you're ready, run:
+### Pré-requisitos
 
-```bash
-npm run reset-project
-```
+Antes de começar, garanta que você tenha instalado:
+* **[Node.js](https://nodejs.org/en)** (que já inclui o npm)
+* **[Git](https://git-scm.com/)**
+* O aplicativo **[Expo Go](https://expo.dev/go)** no seu celular (Android ou iOS)
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### Passos para Execução
 
-## Learn more
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/seu-usuario/app-perfil-esbam.git](https://github.com/seu-usuario/app-perfil-esbam.git)
+    ```
 
-To learn more about developing your project with Expo, look at the following resources:
+2.  **Navegue até a pasta do projeto:**
+    ```bash
+    cd app-perfil-esbam
+    ```
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+3.  **Instale as dependências:**
+    *Este comando irá baixar todas as bibliotecas listadas no `package.json`.*
+    ```bash
+    npm install
+    ```
 
-## Join the community
+4.  **Inicie o servidor de desenvolvimento:**
+    ```bash
+    npx expo start
+    ```
 
-Join our community of developers creating universal apps.
+5.  **Execute no seu celular:**
+    * Abra o aplicativo **Expo Go**.
+    * Escaneie o QR Code que apareceu no seu terminal.
+    * Certifique-se de que seu computador e celular estejam na mesma rede Wi-Fi.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+## 👨‍💻 Autor
+
+* **[Gilvan Daniel da Silva](https://github.com/GilvanDnel)**
