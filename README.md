@@ -2,7 +2,7 @@
 
 Este é um aplicativo móvel desenvolvido como parte de uma atividade acadêmica para a ESBAM. O app permite que o usuário insira seu nome e idade, exibindo essas informações dinamicamente na tela e oferecendo interações básicas como exibir um alerta e limpar os campos.
 
-![Screenshot do App](https://drive.google.com/file/d/114J0ZdOlctTor4UOT97tOqbk3BCVYsji/view?usp=drivesdk)
+![Screenshot do App]( https://drive.google.com/file/d/114J0ZdOlctTor4UOT97tOqbk3BCVYsji/view?usp=sharing )
 
 
 ---
