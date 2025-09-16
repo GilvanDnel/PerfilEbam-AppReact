@@ -2,7 +2,7 @@
 
 Este é um aplicativo móvel desenvolvido como parte de uma atividade acadêmica para a ESBAM. O app permite que o usuário insira seu nome e idade, exibindo essas informações dinamicamente na tela e oferecendo interações básicas como exibir um alerta e limpar os campos.
 
-![Screenshot do App]( https://drive.google.com/file/d/114J0ZdOlctTor4UOT97tOqbk3BCVYsji/view?usp=sharing )
+![Screenshot do App](./assets/images/Screenshot_20250916-163500.Expo%20Go.png)
 
 
 ---
@@ -34,12 +34,12 @@ Antes de começar, garanta que você tenha instalado:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/app-perfil-esbam.git](https://github.com/seu-usuario/app-perfil-esbam.git)
+    git clone https://github.com/GilvanDnel/PerfilEbam-AppReact
     ```
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd app-perfil-esbam
+    cd PerfilEbam-AppReact
     ```
 
 3.  **Instale as dependências:**
