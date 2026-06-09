@@ -41,3 +41,16 @@ app-example
 # generated native folders
 /ios
 /android
+
+.env
+.env.*
+!.env.example
+*.pfx
+secrets.*
+credentials.*
+build/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+Thumbs.db
